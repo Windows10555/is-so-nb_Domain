@@ -3,7 +3,7 @@
 
 你好！朋友。这是由[Windows10555 Team](https://windows10555.github.io)创建的基础界面。
 
-我们愿意**免费**分发is-so-nb.gq的二级域名。请联系`Windows10555@163.com`。
+我们愿意**免费**分发is-so-nb.gq的二级域名。请联系`Windows10555@163.com`或在[XChat](https://xq.kzw.ink/?xq102210)
 >### 请注意
 >域名上的页面需自行创建，可以使用GitHub Pages（由于团队技术原因，GitHub Pages的分发可能会短时间出现问题）或是其他服务器的IPv4/IPv6 IP。
 >
